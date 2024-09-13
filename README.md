@@ -15,7 +15,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 - ### Team Members
 Btech IT Students
 ###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
-
+<img src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media.gif" height=15% width=40% align="right">
 # Startup-Company-Machine-Learning with Streamlit Demo
 
 ### Home page
