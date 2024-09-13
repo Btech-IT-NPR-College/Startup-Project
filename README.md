@@ -8,7 +8,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 [Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/tree/main/assets.jpg" >
+https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/tree/main/assets.jpg" >
 
 
 ## Project Overview:
@@ -24,7 +24,7 @@ Btech IT Students
 
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnbDQ5cmVrYnBkcGp2dHZkdWQybjFpOXVjNHduaGR2dnRnYjRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BuiWalMAqdDgv7IYBK/giphy.gif
 )
-
+<img src="https://github.com/Btech-IT-NPR-College/Startup-Project/aaa.png">
 ### Startup Prediction Performance
 
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd4Mmd3dXQ1cm9rM2lzemx5ajBzcmF3dDU0dDBjcTFpbXU5bDcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qLnwPvnST1VznZyhb8/giphy.gif)
