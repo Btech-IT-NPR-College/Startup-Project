@@ -8,7 +8,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 [Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic1.png" >
+<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/startup-company-scaled.jpg" >
 
 
 ## Project Overview:
