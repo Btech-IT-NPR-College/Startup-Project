@@ -1,7 +1,7 @@
 # Startup-Company-Machine-Learning with Streamlit 
 
 "Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
-<img src=" https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
+<img src=" https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">     
 ## Demo WebApp
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
